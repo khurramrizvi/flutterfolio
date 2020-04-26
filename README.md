@@ -2,14 +2,14 @@
 
 A Portfolio App built using Flutter for Web.
 
-## ScreenShots
+## Screenshots
 
 ### Original Portfolio: about.me
 
 <table>
-  <td> 
-  <tr> <img src ='ss/og.png'> </tr>
-   </td>
+  <tr> 
+  <td> <img src ='ss/og.png'> </td>
+   </tr>
  </table>
  
  <br>
@@ -20,15 +20,15 @@ A Portfolio App built using Flutter for Web.
  ### FlutterFolio: about.me - Full Screen Mode
  
  <table>
-  <td> 
-  <tr> <img src ='ss/full.png'> </tr>
-   </td>
+  <tr> 
+  <td> <img src ='ss/full.png'> </td>
+   </tr>
   
   ### FlutterFolio: about.me - Responsive
   
-  <td> 
-  <tr> <img src ='ss/responsive.png'> </tr>
-   </td>
+  <tr> 
+  <td> <img src ='ss/responsive.png'> </td>
+   </tr>
  </table>
  
  ## Want your own portfolio?
