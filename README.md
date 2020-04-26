@@ -18,14 +18,14 @@ A Portfolio App built using Flutter for Web.
  ## My Implementation with some UI tweaks
  
  ### FlutterFolio: about.me - Full Screen Mode
- 
  <table>
   <tr> 
   <td> <img src ='ss/full.png'> </td>
    </tr>
+  </table>
   
   ### FlutterFolio: about.me - Responsive
-  
+  <table>
   <tr> 
   <td> <img src ='ss/responsive.png'> </td>
    </tr>
