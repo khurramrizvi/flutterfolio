@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
   String name = 'K H U R R A M   R I Z V I';
   String profileUrl = 'https://aboutme.imgix.net/background/users/k/h/u/khurramrizvi_1531853708_78.jpg';
   String designation = 'Project Engineer @ Wipro and Flutter Developer in Mumbai, India';
-  String description1 = 'Hi, I’m Khurram. I’m a student living in Mumbai, India. I am a fan of technology, entrepreneurship, and design.';
+  String description1 = 'Hi, I’m Khurram, git living in Mumbai, India. I am a fan of technology, entrepreneurship, and design.';
   String description2 = 'I’m also interested in innovation and programming. You can view my App on Play Store with a click on the button above.';
 
 
