@@ -253,7 +253,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: CircleAvatar(
                                         backgroundColor: Colors.blue[900],
                                         radius: 24,
-                                        backgroundImage: AssetImage('icons/fb.png',),
+                                        backgroundImage: AssetImage('assets/icons/fb.png',),
                                       ),
                                       onTap: (){
                                         
@@ -267,7 +267,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: CircleAvatar(
                                         backgroundColor: Colors.blue[700],
                                         radius: 24,
-                                        backgroundImage: AssetImage('icons/linkedin.png',),
+                                        backgroundImage: AssetImage('assets/icons/linkedin.png',),
                                       ),
                                       onTap: (){
 
@@ -282,7 +282,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: CircleAvatar(
                                         backgroundColor: Colors.black,
                                         radius: 24,
-                                        backgroundImage: AssetImage('icons/git.png',),
+                                        backgroundImage: AssetImage('assets/icons/git.png',),
                                       ),
                                       onTap: (){
 
@@ -295,7 +295,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: CircleAvatar(
                                         backgroundColor: Colors.pink,
                                         radius: 24,
-                                        backgroundImage: AssetImage('icons/insta.png',),
+                                        backgroundImage: AssetImage('assets/icons/insta.png',),
                                       ),
                                       onTap: (){
 
@@ -310,7 +310,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: CircleAvatar(
                                         backgroundColor: Colors.blue,
                                         radius: 24,
-                                        backgroundImage: AssetImage('icons/twitter.png',),
+                                        backgroundImage: AssetImage('assets/icons/twitter.png',),
                                       ),
                                       onTap: (){
                                         js.context.callMethod('open', [twitter]);
