@@ -31,8 +31,10 @@ A Portfolio App built using Flutter for Web.
    </tr>
  </table>
  
+ <br>
+ 
  ## Want your own portfolio?
- ### Simply update the Links and Description in lib\main.dart file
+ #### Simply update the Links and Description in lib\main.dart file
  
     
-## If you like my work and want to show some ❤️, please consider giving a ⭐️ to this Repository.
+### If you like my work and want to show some ❤️, please consider giving a ⭐️ to this Repository.
