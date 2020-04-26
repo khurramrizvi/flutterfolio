@@ -51,6 +51,7 @@ flutter:
      - assets/icons/insta.png
      - assets/icons/linkedin.png
      - assets/icons/twitter.png
+     - assets/icons/Me.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

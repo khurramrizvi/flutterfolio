@@ -74,12 +74,15 @@ class _MyHomePageState extends State<MyHomePage> {
           title: Row(
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
+            Image.asset('assets/icons/Me.png',height: 28,width: 28,),
+              SizedBox(width: 12,),
               Text("about",style: TextStyle(
                 color: Colors.black,
+                fontSize: 24,
                 fontWeight: FontWeight.w800
               ),),
               Text(".me",style: TextStyle(
-                fontSize: 18,
+                fontSize: 23,
                 color: Colors.blue[700],
               ),)
             ],
